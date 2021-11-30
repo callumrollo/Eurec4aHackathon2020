@@ -11,7 +11,6 @@ dependencies:
    - cartopy
    - xarray
    - cmocean
-   - cmcrameri
    - metpy
    - gsw
    - netcdf4
